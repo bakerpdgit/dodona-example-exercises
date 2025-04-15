@@ -1,3 +1,5 @@
+Note: this is a reading only exercise.
+
 ![Virgil](media/vergilius.jpg "Virgil")
 
 ```
