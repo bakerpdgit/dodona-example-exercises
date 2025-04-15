@@ -5,5 +5,9 @@
       "nl": "Aeneis"
     }
   },
-  "labels": []
+  "labels": [],
+  "internals": {
+    "token": "xrNZEXDnD8j_WUYqXTVqFbd_piBA-zPMe7eygt4qwyW7V5CaDahv_pWhZiTXbNm5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
