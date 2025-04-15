@@ -1,1 +1,1 @@
-../ISBN/README.en.md
+A linear search activity to demonstrate a python challenge.
