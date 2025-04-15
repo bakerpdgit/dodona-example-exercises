@@ -1,5 +1,7 @@
 {
-    "access": "private",
-    "contact": "Team Dodona <dodona@ugent.be>",
-    "labels": ["example", "voorbeeld"]
+  "access": "private",
+  "contact": "Paul baker <pdbaker@perse.co.uk>",
+  "labels": [
+    "linear search"
+  ]
 }

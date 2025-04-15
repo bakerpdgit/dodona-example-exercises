@@ -1,1 +1,0 @@
-Based on Sobell, M. (2018). _A practical guide to linux commands, editors, and shell programming_. 4th edition. Boston, MA: Addison-Wesley.

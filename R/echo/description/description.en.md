@@ -1,1 +1,0 @@
-Write a function named echo, that accepts one argument and returns it immediately.

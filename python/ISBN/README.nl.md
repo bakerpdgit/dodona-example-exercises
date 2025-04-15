@@ -1,1 +1,0 @@
-In deze oefening moet de student de `input` inlezen, die input omzetten naar een getal, en daar vervolgens mathematische bewerkingen op doen (optellen en modulo) om uiteindelijk het eindresultaat terug uit te `print`en.

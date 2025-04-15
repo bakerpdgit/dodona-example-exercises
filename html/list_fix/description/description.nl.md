@@ -1,1 +1,0 @@
-Zoek en verbeter de twee fouten in onderstaande code.
