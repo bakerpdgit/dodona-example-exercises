@@ -11,5 +11,9 @@
   "labels": [
     "turtle",
     "house"
-  ]
+  ],
+  "internals": {
+    "token": "g36wgyZGgKX2iExGpMWPYdCIVSu4UDJtz3qVST8pVCjgMFHCRRhWiMZsCfWJWDeq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
