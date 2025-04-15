@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "en": "EVEN-COUNTER"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
+}
