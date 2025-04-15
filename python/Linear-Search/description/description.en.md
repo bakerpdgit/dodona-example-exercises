@@ -1,4 +1,5 @@
 Write code to read a CSV of records for fields from file records.txt
+
 ID,Surname,Firstname
 
 Complete a linear search for the provided ID and output the employer's surname.
